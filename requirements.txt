@@ -1,0 +1,6 @@
+streamlit==1.28.0
+feedparser==6.0.10
+requests==2.31.0
+beautifulsoup4==4.12.2
+sqlite3  # This is included in Python standard library
+lxml==4.9.3
